@@ -7,7 +7,6 @@ package rc.unesp.br.lcp.view;
 
 /**
  *
- * @author Daniel
  */
 public class MainView extends javax.swing.JFrame {
 
