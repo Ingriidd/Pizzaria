@@ -11,7 +11,6 @@ import rc.unesp.br.lcp.view.MainView;
 
 /**
  *
- * @author Daniel
  */
 public class Main {
 
