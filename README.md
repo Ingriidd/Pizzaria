@@ -1,5 +1,5 @@
 # Pizzaria
-Trabalho final de linguagens de programação. 
+Trabalho final de linguagens de programação em colaboração com https://github.com/ScatolinoGui
 
 Tópicos:
 
