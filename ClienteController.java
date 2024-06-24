@@ -7,7 +7,7 @@ package rc.unesp.br.lcp.controller;
 
 /**
  *
- * @author Daniel
+
  */
 public class ClienteController {
     
