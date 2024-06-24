@@ -4,10 +4,8 @@ Trabalho final de linguagens de programação.
 Tópicos:
 
 Introdução 
-Visão Geral 
 Requisitos do sistema 
 Estrutura 
-   - UML 
    - Principais Classes e métodos. 
    - Views 
 Código Fonte 
